@@ -1,0 +1,13 @@
+{
+  "name": "vue-cli-service",
+  "version": "1.0.0",
+  "bin": {
+    "vue": "./vue-cli-service.sh",
+    "vue-cli-service": "./vue-cli-service.sh"
+  },
+  "license": "UNLICENSED",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/alxndrsn/vue-cli-service"
+  }
+}
