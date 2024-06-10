@@ -1,5 +1,6 @@
 {
   "name": "vue-cli-service",
+  "description": "local service for vue-cli projects",
   "version": "1.0.0",
   "bin": {
     "vue": "./vue-cli-service.sh",
